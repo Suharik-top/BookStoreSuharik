@@ -1,0 +1,6 @@
+{"books":[
+  {"id":1,"name":"Совершенный код","author":"Стив Макконелл","price":1000,"amount":6},
+  {"id":2,"name":"Философия Java","author":"Брюс Эккель","price":1500,"amount":15},
+  {"id":3,"name":"Effective Java","author":"Joshua Bloch","price":2500,"amount":0}],
+  "account":{"money":19000,"books":[
+    {"id":1,"name":"Совершенный код","author":"Стив Макконелл","price":1000,"amount":1}]}}
